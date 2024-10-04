@@ -1,2 +1,3 @@
 
-![Alt]("screen.jpg")
+![Alt](./screen.jpg)
+
